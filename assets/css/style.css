@@ -143,3 +143,8 @@ footer i {
 #eventos h3 {
   margin: 1em auto;
 }
+
+.txt {
+  text-decoration: none;
+  color: black;
+}
