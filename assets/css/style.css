@@ -148,3 +148,21 @@ footer i {
   text-decoration: none;
   color: black;
 }
+
+.evento01 {
+  margin-bottom: 2em;
+  width: 80%;
+  vertical-align: middle;
+  margin-left: 10%;
+  margin-right: 10%;
+  white-space: normal;
+}
+
+.vegan {
+  margin-bottom: 5em;
+  text-align: left;
+}
+
+.imagedb {
+
+}
